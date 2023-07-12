@@ -1,0 +1,12 @@
+.Icon_container{
+    /* margin-top: 70vh; */
+    float: right;
+
+    padding:0px;
+    margin:0px;
+    position:fixed;
+    right:-130px;
+    top:230px;
+    width:210px;
+    z-index: 1100;
+}
