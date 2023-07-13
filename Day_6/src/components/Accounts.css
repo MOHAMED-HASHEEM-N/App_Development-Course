@@ -1,0 +1,22 @@
+.Bank{
+    background-image: url("../images/Bank-Pic-5.jpg");
+    background-size: cover;
+    height: 100vh;
+    /* margin-top: 10vh; */
+}
+
+.Bank_Accounts{
+    margin: 10px 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
+  .Bank_Accounts table td ,button{
+    padding: 10px;
+    margin: 20px;
+    border-bottom: 1px solid black;
+  }
+  
+  .Bank_Accounts table tr,th{ 
+    padding: 10px;
+  }

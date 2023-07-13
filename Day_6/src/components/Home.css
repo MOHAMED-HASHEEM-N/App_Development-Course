@@ -1,0 +1,8 @@
+.container{
+  background-image: url("../images/Bank-Pic-3.jpg");
+  /* background-image: url(""); */
+    /* background-color: aqua;
+    margin: 0; */
+    height: 90vh;
+    background-size: cover;
+  }

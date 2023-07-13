@@ -1,0 +1,25 @@
+.Icon_container{
+    /* margin-top: 70vh; */
+    
+    /* float: right;
+    color: black !important;
+    padding:0px;
+    position:fixed;
+    right:-130px;
+    top:230px;
+    width:210px;
+    z-index: 1100; */
+    /* margin-top:20vh; */
+        margin-top: 10vh;
+        float: right;
+    
+    /* position: fixed;
+    margin-bottom: 70vh;
+    bottom: 0;
+    left: 0;
+    width: 50%;
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center; */
+}
